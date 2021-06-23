@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560435273 source:c:\users\yohannes-dell\documents\graphics\house\main.cpp
+	<iostream>
+	<graphics.h>
+
